@@ -2,12 +2,7 @@
 
 ### Hello 👋 欢迎来到我的 GitHub 主页！
 
-- 📌 **技术栈**: Vue.js | React | Node.js | Java
-- ✍️ **博客**: [个人博客](https://junsen.online) | [掘金](https://juejin.cn/user/747323638945111)
-- 📫 **微信**: `Junsen046`
-- 🔭 **正在学习**: 嵌入式 | C++ 
+- 📌 **技术栈**: Vue.js
+- 🔭 **正在学习**: 前端开发
 
 ---
-
-### 🏆 GitHub 成就
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=huangjunsen0406&theme=gruvbox)
